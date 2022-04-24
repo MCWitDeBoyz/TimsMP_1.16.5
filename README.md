@@ -45,6 +45,8 @@ Before playing: Click on "Fetch Origin" to update the server
 
 To play: Click "Repository" at the top of Github, click "Show in Explorer", click on "DeBoyz" folder, then click "run.bat." Two windows will open, cmd and MC server interface.
 
+NOTE: You must use the "stop" command in the cmd or server UI to completely save and stop the server. You will not be able to upload until this is completed. 
+
 After playing: You can check to make sure everything is working by refreshing the changes and verifying that local file server changes have been made. We must upload these so that everyone will have an updated server. Make sure you are on the changes tab and add a Summary(refer to template above),Description(Optional), and click "Commit to main." Afterwards you will see something like "Push to origin/remote branch." CLICK THIS BUTTON OR ELSE THE CHANGES WILL NOT BE UPLOADED 
 
 Now you are finished and the next person can complete the same routine.
