@@ -39,6 +39,8 @@ Summary, Description, Commit to main (bottom left) - Something you will routinel
 
 
 Routine:
+
+
 Before playing: Click on "Fetch Origin" to update the server 
 
 To play: Click "Repository" at the top of Github, click "Show in Explorer", click on "DeBoyz" folder, then click "run.bat." Two windows will open, cmd and MC server interface.
