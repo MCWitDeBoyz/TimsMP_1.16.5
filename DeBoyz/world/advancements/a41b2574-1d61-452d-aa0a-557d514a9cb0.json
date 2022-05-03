@@ -5578,6 +5578,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2022-05-02 19:21:20 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:16:05 -0600"

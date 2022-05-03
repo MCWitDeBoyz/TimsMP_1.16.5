@@ -3666,6 +3666,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2022-05-02 19:18:46 -0600",
       "minecraft:skeleton": "2022-04-30 14:56:21 -0600",
       "minecraft:ghast": "2022-05-01 15:34:12 -0600",
       "minecraft:hoglin": "2022-05-01 15:44:23 -0600",
@@ -9423,6 +9424,12 @@
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:06:06 -0600"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2022-05-02 20:18:46 -0600"
     },
     "done": true
   },
