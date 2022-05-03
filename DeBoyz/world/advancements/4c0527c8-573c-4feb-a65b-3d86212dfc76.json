@@ -1702,6 +1702,12 @@
     },
     "done": true
   },
+  "create:blaze_burner": {
+    "criteria": {
+      "0": "2022-05-02 21:27:59 -0600"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/puny_smelting": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:06:06 -0600"
@@ -3046,6 +3052,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/attribute_filter": {
+    "criteria": {
+      "has_the_recipe": "2022-05-02 21:21:04 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:06:06 -0600"
@@ -3157,6 +3169,12 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:06:06 -0600"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/nozzle": {
+    "criteria": {
+      "has_item": "2022-05-02 22:27:13 -0600"
     },
     "done": true
   },
@@ -3409,6 +3427,12 @@
   "minecraft:recipes/building_blocks/stripped_birch_wood": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:06:06 -0600"
+    },
+    "done": true
+  },
+  "create:wrench": {
+    "criteria": {
+      "0": "2022-05-02 22:16:46 -0600"
     },
     "done": true
   },
@@ -3667,6 +3691,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2022-05-02 19:18:46 -0600",
+      "minecraft:blaze": "2022-05-02 21:32:49 -0600",
       "minecraft:skeleton": "2022-04-30 14:56:21 -0600",
       "minecraft:ghast": "2022-05-01 15:34:12 -0600",
       "minecraft:hoglin": "2022-05-01 15:44:23 -0600",
@@ -3675,6 +3700,7 @@
       "minecraft:creeper": "2022-04-30 13:37:02 -0600",
       "minecraft:phantom": "2022-04-30 17:31:31 -0600",
       "minecraft:witch": "2022-04-30 18:48:54 -0600",
+      "minecraft:wither_skeleton": "2022-05-02 21:33:06 -0600",
       "minecraft:husk": "2022-04-30 15:15:26 -0600",
       "minecraft:piglin": "2022-05-01 13:53:04 -0600",
       "minecraft:enderman": "2022-04-30 15:34:08 -0600",
@@ -5393,6 +5419,12 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/structure": {
+    "criteria": {
+      "open_smeltery": "2022-05-02 23:34:03 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_button": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:06:06 -0600"
@@ -5684,6 +5716,12 @@
   "tconstruct:recipes/tconstruct/general/common/glass/white_clear_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:06:07 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2022-05-02 21:56:30 -0600"
     },
     "done": true
   },
@@ -6563,6 +6601,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2022-05-02 22:48:45 -0600"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/fancy_diorite_bricks_from_diorite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:06:06 -0600"
@@ -6609,7 +6653,8 @@
     "criteria": {
       "sky": "2022-04-30 13:45:05 -0600",
       "magma_cream": "2022-05-01 15:21:02 -0600",
-      "earth": "2022-04-30 12:51:40 -0600"
+      "earth": "2022-04-30 12:51:40 -0600",
+      "blood": "2022-05-02 23:34:51 -0600"
     },
     "done": false
   },
@@ -11298,6 +11343,12 @@
   "projecte:recipes/projecte/dark_matter": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:06:07 -0600"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2022-05-02 22:42:08 -0600"
     },
     "done": true
   },

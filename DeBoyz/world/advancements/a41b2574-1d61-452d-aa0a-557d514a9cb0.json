@@ -1295,6 +1295,15 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2022-05-02 21:10:47 -0600",
+      "minecraft:nether_wastes": "2022-05-02 21:11:44 -0600",
+      "minecraft:soul_sand_valley": "2022-05-02 21:16:28 -0600",
+      "minecraft:basalt_deltas": "2022-05-02 21:24:42 -0600"
+    },
+    "done": false
+  },
   "create:recipes/create.palettes/fancy_granite_bricks_stairs": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:16:05 -0600"
@@ -1484,6 +1493,12 @@
   "tconstruct:recipes/tconstruct/general/tables/tinkers_chest": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:16:04 -0600"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/tinkers_anvil": {
+    "criteria": {
+      "crafted_overworld": "2022-05-02 20:46:01 -0600"
     },
     "done": true
   },
@@ -2075,6 +2090,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2022-05-02 21:10:47 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:16:05 -0600"
@@ -2601,6 +2622,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/chests/gold_diamond_chest": {
+    "criteria": {
+      "has_diamonds": "2022-05-02 23:15:01 -0600"
+    },
+    "done": true
+  },
   "create:recipes/create.base/blasting/copper_ingot_from_crushed": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:16:05 -0600"
@@ -2964,6 +2991,12 @@
   "create:recipes/create.palettes/mossy_granite_from_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:16:05 -0600"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/attribute_filter": {
+    "criteria": {
+      "has_the_recipe": "2022-05-02 20:50:33 -0600"
     },
     "done": true
   },
@@ -3588,9 +3621,13 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2022-04-30 12:22:14 -0600",
+      "minecraft:ghast": "2022-05-02 21:56:49 -0600",
+      "minecraft:hoglin": "2022-05-02 21:11:45 -0600",
       "minecraft:spider": "2022-04-30 12:21:44 -0600",
       "minecraft:creeper": "2022-04-30 12:39:56 -0600",
+      "minecraft:phantom": "2022-05-02 20:51:22 -0600",
       "minecraft:cave_spider": "2022-05-02 14:34:06 -0600",
+      "minecraft:piglin": "2022-05-02 21:13:13 -0600",
       "minecraft:silverfish": "2022-04-30 19:01:15 -0600",
       "minecraft:zombie": "2022-04-30 12:59:21 -0600",
       "minecraft:drowned": "2022-04-30 14:51:23 -0600",
@@ -7366,6 +7403,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/chests/silver_diamond_chest": {
+    "criteria": {
+      "has_item": "2022-05-02 23:15:01 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:16:05 -0600"
@@ -7609,6 +7652,12 @@
   "projecte:recipes/projecte/klein_star_zwei": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:16:04 -0600"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2022-05-02 21:10:47 -0600"
     },
     "done": true
   },
@@ -10633,7 +10682,8 @@
       "baked_potato": "2022-04-30 15:31:29 -0600",
       "apple": "2022-04-30 12:29:39 -0600",
       "bread": "2022-04-30 16:05:42 -0600",
-      "cooked_chicken": "2022-04-30 13:00:32 -0600"
+      "cooked_chicken": "2022-04-30 13:00:32 -0600",
+      "cooked_salmon": "2022-05-02 21:49:34 -0600"
     },
     "done": false
   },
@@ -11099,6 +11149,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2022-05-02 23:15:01 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:16:04 -0600"
@@ -11240,6 +11296,12 @@
   "tconstruct:tools/tinker_station": {
     "criteria": {
       "crafted_block": "2022-04-30 13:35:51 -0600"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2022-05-02 21:29:10 -0600"
     },
     "done": true
   },
