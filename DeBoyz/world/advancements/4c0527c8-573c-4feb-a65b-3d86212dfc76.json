@@ -3705,7 +3705,8 @@
       "minecraft:piglin": "2022-05-01 13:53:04 -0600",
       "minecraft:enderman": "2022-04-30 15:34:08 -0600",
       "minecraft:zombie": "2022-04-30 13:30:06 -0600",
-      "minecraft:drowned": "2022-04-30 12:50:36 -0600"
+      "minecraft:drowned": "2022-04-30 12:50:36 -0600",
+      "minecraft:zombie_villager": "2022-05-03 17:34:57 -0600"
     },
     "done": false
   },
@@ -10845,6 +10846,7 @@
     "criteria": {
       "cooked_porkchop": "2022-04-30 13:44:56 -0600",
       "cooked_mutton": "2022-04-30 13:14:55 -0600",
+      "sweet_berries": "2022-05-03 18:54:33 -0600",
       "cooked_beef": "2022-04-30 13:27:32 -0600",
       "pumpkin_pie": "2022-04-30 23:01:24 -0600",
       "bread": "2022-04-30 14:21:13 -0600",
@@ -10935,6 +10937,12 @@
   "minecraft:recipes/decorations/pink_banner": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:06:06 -0600"
+    },
+    "done": true
+  },
+  "create:fan_lava": {
+    "criteria": {
+      "0": "2022-05-03 18:02:40 -0600"
     },
     "done": true
   },

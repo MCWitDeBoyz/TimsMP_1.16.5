@@ -359,6 +359,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/chests/copper_silver_chest": {
+    "criteria": {
+      "has_item": "2022-05-03 19:23:21 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:16:05 -0600"
@@ -878,6 +884,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:16:04 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2022-05-03 18:42:37 -0600"
     },
     "done": true
   },
@@ -1654,6 +1666,12 @@
   },
   "tconstruct:smeltery/cast_collector": {
     "criteria": {
+      "large_plate": "2022-05-03 20:27:19 -0600",
+      "tough_handle": "2022-05-03 20:13:29 -0600",
+      "tool_binding": "2022-05-03 20:13:18 -0600",
+      "hammer_head": "2022-05-03 20:13:36 -0600",
+      "broad_blade": "2022-05-03 20:13:10 -0600",
+      "pickaxe_head": "2022-05-03 20:15:41 -0600",
       "ingot": "2022-04-30 21:42:32 -0600"
     },
     "done": false
@@ -2099,6 +2117,12 @@
   "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:16:05 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2022-05-03 20:39:17 -0600"
     },
     "done": true
   },
@@ -3620,6 +3644,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2022-05-03 20:39:17 -0600",
       "minecraft:skeleton": "2022-04-30 12:22:14 -0600",
       "minecraft:ghast": "2022-05-02 21:56:49 -0600",
       "minecraft:hoglin": "2022-05-02 21:11:45 -0600",
@@ -3629,6 +3654,7 @@
       "minecraft:cave_spider": "2022-05-02 14:34:06 -0600",
       "minecraft:piglin": "2022-05-02 21:13:13 -0600",
       "minecraft:silverfish": "2022-04-30 19:01:15 -0600",
+      "minecraft:enderman": "2022-05-03 21:13:51 -0600",
       "minecraft:zombie": "2022-04-30 12:59:21 -0600",
       "minecraft:drowned": "2022-04-30 14:51:23 -0600",
       "minecraft:zombie_villager": "2022-04-30 17:09:53 -0600"
@@ -4340,6 +4366,12 @@
   "projecte:recipes/projecte/light_gray_alchemical_bag": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:16:04 -0600"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/iron_silver_chest": {
+    "criteria": {
+      "has_item": "2022-05-03 19:23:21 -0600"
     },
     "done": true
   },
@@ -6449,6 +6481,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/chests/silver_gold_chest": {
+    "criteria": {
+      "has_item": "2022-05-03 19:23:21 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:16:05 -0600"
@@ -7388,6 +7426,12 @@
   "create:recipes/create.palettes/paved_weathered_limestone_slab_from_paved_weathered_limestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:16:05 -0600"
+    },
+    "done": true
+  },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2022-05-03 20:29:23 -0600"
     },
     "done": true
   },
@@ -10987,6 +11031,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/make_part": {
+    "criteria": {
+      "crafted_part": "2022-05-03 20:10:01 -0600"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/appliances/linked_controller": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:16:04 -0600"
@@ -11212,6 +11262,12 @@
   "projecte:recipes/projecte/volcanite_amulet": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:16:05 -0600"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/mighty_smelting": {
+    "criteria": {
+      "crafted_book": "2022-05-03 19:59:41 -0600"
     },
     "done": true
   },
@@ -11760,6 +11816,13 @@
       "has_the_recipe": "2022-04-30 12:16:04 -0600"
     },
     "done": true
+  },
+  "tconstruct:smeltery/tool_forge": {
+    "criteria": {
+      "sledge_hammer": "2022-05-03 20:32:18 -0600",
+      "vein_hammer": "2022-05-03 20:29:23 -0600"
+    },
+    "done": false
   },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {

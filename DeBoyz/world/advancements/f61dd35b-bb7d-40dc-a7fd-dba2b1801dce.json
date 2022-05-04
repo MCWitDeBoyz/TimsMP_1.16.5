@@ -3522,6 +3522,7 @@
       "minecraft:skeleton": "2022-04-30 16:31:48 -0600",
       "minecraft:spider": "2022-04-30 18:26:31 -0600",
       "minecraft:creeper": "2022-04-30 20:08:59 -0600",
+      "minecraft:phantom": "2022-05-03 18:47:43 -0600",
       "minecraft:zombified_piglin": "2022-05-01 13:46:03 -0600",
       "minecraft:husk": "2022-05-02 14:29:36 -0600",
       "minecraft:enderman": "2022-05-02 15:33:28 -0600",
@@ -5542,6 +5543,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/copper_casing": {
+    "criteria": {
+      "has_item": "2022-05-03 21:08:58 -0600"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/fancy_limestone_bricks_wall": {
     "criteria": {
       "has_the_recipe": "2022-04-30 14:56:58 -0600"
@@ -6277,6 +6284,12 @@
   "create:recipes/create.palettes/andesite_bricks_from_andesite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-04-30 14:56:58 -0600"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/copper_to_silver_chest_upgrade": {
+    "criteria": {
+      "has_item": "2022-05-03 21:08:58 -0600"
     },
     "done": true
   },
@@ -7108,6 +7121,12 @@
     },
     "done": true
   },
+  "classoptions:student": {
+    "criteria": {
+      "student": "2022-05-03 21:44:36 -0600"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/vanilla_iron_chest": {
     "criteria": {
       "has_iron_ingot": "2022-04-30 19:45:22 -0600"
@@ -7435,6 +7454,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/chests/vanilla_copper_chest": {
+    "criteria": {
+      "has_item": "2022-05-03 21:08:58 -0600"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/magnet_upgrade": {
     "criteria": {
       "has_the_recipe": "2022-04-30 14:56:57 -0600"
@@ -7717,9 +7742,21 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/upgrades/gold_to_diamond_chest_upgrade": {
+    "criteria": {
+      "has_glass": "2022-05-03 21:13:28 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_the_recipe": "2022-04-30 14:56:58 -0600"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/diamond_crystal_chest": {
+    "criteria": {
+      "has_glass": "2022-05-03 21:13:28 -0600"
     },
     "done": true
   },
@@ -7747,6 +7784,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/upgrades/copper_to_iron_chest_upgrade": {
+    "criteria": {
+      "has_item": "2022-05-03 21:13:28 -0600"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/feeding_upgrade": {
     "criteria": {
       "has_the_recipe": "2022-04-30 14:56:58 -0600"
@@ -7768,6 +7811,12 @@
   "create:recipes/create.base/crafting/kinetics/red_seat_from_other_seat": {
     "criteria": {
       "has_the_recipe": "2022-04-30 14:56:57 -0600"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/silver_to_gold_chest_upgrade": {
+    "criteria": {
+      "has_item": "2022-05-03 21:13:28 -0600"
     },
     "done": true
   },
@@ -8272,6 +8321,12 @@
   "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
       "has_the_recipe": "2022-04-30 14:56:57 -0600"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/diamond_to_obsidian_chest_upgrade": {
+    "criteria": {
+      "has_glass": "2022-05-03 21:13:28 -0600"
     },
     "done": true
   },
@@ -10054,6 +10109,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/belt_connector": {
+    "criteria": {
+      "has_the_recipe": "2022-05-03 20:33:58 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_the_recipe": "2022-04-30 14:56:57 -0600"
@@ -10419,6 +10480,7 @@
       "mutton": "2022-04-30 18:54:46 -0600",
       "bread": "2022-04-30 20:11:28 -0600",
       "salmon": "2022-04-30 17:02:26 -0600",
+      "cooked_rabbit": "2022-05-03 19:24:57 -0600",
       "cod": "2022-04-30 18:26:47 -0600",
       "cooked_salmon": "2022-04-30 18:28:18 -0600",
       "carrot": "2022-04-30 16:33:05 -0600"
@@ -11121,6 +11183,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_the_recipe": "2022-05-03 20:33:58 -0600"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/glass/orange_clear_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2022-04-30 14:56:58 -0600"
@@ -11352,6 +11420,12 @@
   "create:recipes/create.palettes/limestone_bricks_from_limestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-04-30 14:56:58 -0600"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/diamond_to_crystal_chest_upgrade": {
+    "criteria": {
+      "has_glass": "2022-05-03 21:13:28 -0600"
     },
     "done": true
   },
