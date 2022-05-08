@@ -2309,6 +2309,12 @@
     },
     "done": true
   },
+  "projecte:transmutation_table": {
+    "criteria": {
+      "trans_table": "2022-05-06 19:57:08 -0600"
+    },
+    "done": true
+  },
   "projecte:recipes/projecte/conversions/dye_bag_light_gray": {
     "criteria": {
       "has_the_recipe": "2022-04-23 18:59:27 -0600"
@@ -2624,6 +2630,12 @@
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_the_recipe": "2022-04-23 18:59:27 -0600"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/gold_diamond_chest": {
+    "criteria": {
+      "has_diamonds": "2022-05-06 19:41:11 -0600"
     },
     "done": true
   },
@@ -7418,6 +7430,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/chests/silver_diamond_chest": {
+    "criteria": {
+      "has_item": "2022-05-06 19:41:11 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_the_recipe": "2022-04-23 18:59:27 -0600"
@@ -7938,6 +7956,12 @@
   "ironchest:recipes/ironchest/upgrades/copper_to_iron_chest_upgrade": {
     "criteria": {
       "has_item": "2022-04-30 15:18:21 -0600"
+    },
+    "done": true
+  },
+  "projecte:philosophers_stone": {
+    "criteria": {
+      "philosophers_stone": "2022-05-06 19:56:26 -0600"
     },
     "done": true
   },
@@ -11133,6 +11157,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2022-05-06 19:41:11 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-04-23 18:59:27 -0600"
@@ -11310,6 +11340,12 @@
   "create:recipes/create.base/crafting/schematics/schematic_and_quill": {
     "criteria": {
       "has_the_recipe": "2022-04-30 13:25:43 -0600"
+    },
+    "done": true
+  },
+  "projecte:root": {
+    "criteria": {
+      "philstone_recipe": "2022-05-06 19:56:18 -0600"
     },
     "done": true
   },

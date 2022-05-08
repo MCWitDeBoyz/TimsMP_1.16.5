@@ -3469,6 +3469,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2022-05-06 20:03:02 -0600",
+      "minecraft:spider": "2022-05-06 20:05:37 -0600",
+      "minecraft:creeper": "2022-05-06 20:04:00 -0600",
       "minecraft:zombie": "2022-04-30 19:30:49 -0600"
     },
     "done": false
@@ -10262,6 +10265,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "bread": "2022-05-06 19:03:23 -0600",
       "cooked_chicken": "2022-05-03 18:39:53 -0600",
       "cod": "2022-04-30 18:48:39 -0600",
       "cooked_salmon": "2022-04-30 19:17:53 -0600"

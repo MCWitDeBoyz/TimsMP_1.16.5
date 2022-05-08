@@ -546,6 +546,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/deployer": {
+    "criteria": {
+      "has_the_recipe": "2022-05-06 21:04:36 -0600"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/materials/rose_gold_block_from_ingots": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:06:06 -0600"
@@ -567,6 +573,12 @@
   "tconstruct:recipes/tconstruct/general/common/tinkers_gadgetry": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:06:06 -0600"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/sequenced_gearshift": {
+    "criteria": {
+      "has_the_recipe": "2022-05-06 21:04:36 -0600"
     },
     "done": true
   },
@@ -970,6 +982,12 @@
   "projecte:recipes/projecte/arcana_ring": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:06:06 -0600"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/stressometerfrom_conversion": {
+    "criteria": {
+      "has_the_recipe": "2022-05-06 21:04:36 -0600"
     },
     "done": true
   },
@@ -1813,6 +1831,12 @@
   "create:recipes/create.base/crafting/kinetics/whisk": {
     "criteria": {
       "has_item": "2022-05-02 15:14:26 -0600"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/brass_casing": {
+    "criteria": {
+      "has_the_recipe": "2022-05-06 21:04:36 -0600"
     },
     "done": true
   },
@@ -2680,6 +2704,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/chests/gold_diamond_chest": {
+    "criteria": {
+      "has_diamonds": "2022-05-06 20:12:42 -0600"
+    },
+    "done": true
+  },
   "create:recipes/create.base/blasting/copper_ingot_from_crushed": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:06:07 -0600"
@@ -3196,6 +3226,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2022-05-07 01:04:14 -0600"
+    },
+    "done": true
+  },
   "tconstruct:recipes/decorations/common/glass/vanilla/end_crystal": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:06:06 -0600"
@@ -3702,8 +3738,10 @@
       "minecraft:witch": "2022-04-30 18:48:54 -0600",
       "minecraft:wither_skeleton": "2022-05-02 21:33:06 -0600",
       "minecraft:husk": "2022-04-30 15:15:26 -0600",
+      "minecraft:cave_spider": "2022-05-06 22:53:11 -0600",
       "minecraft:piglin": "2022-05-01 13:53:04 -0600",
       "minecraft:enderman": "2022-04-30 15:34:08 -0600",
+      "minecraft:silverfish": "2022-05-06 23:10:09 -0600",
       "minecraft:zombie": "2022-04-30 13:30:06 -0600",
       "minecraft:drowned": "2022-04-30 12:50:36 -0600",
       "minecraft:zombie_villager": "2022-05-03 17:34:57 -0600"
@@ -4097,6 +4135,12 @@
   "create:recipes/create.palettes/paved_limestone_stairs_from_paved_limestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:06:07 -0600"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/secondary_linear_chassisfrom_conversion": {
+    "criteria": {
+      "has_the_recipe": "2022-05-06 21:04:36 -0600"
     },
     "done": true
   },
@@ -5138,6 +5182,12 @@
     },
     "done": true
   },
+  "projecte:relay": {
+    "criteria": {
+      "relay": "2022-05-07 22:37:14 -0600"
+    },
+    "done": true
+  },
   "tmechworks:recipes/aluminum_ingot_from_blasting": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:06:07 -0600"
@@ -5570,6 +5620,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/schematics/schematic_table": {
+    "criteria": {
+      "has_the_recipe": "2022-05-06 21:04:36 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:06:07 -0600"
@@ -5825,6 +5881,12 @@
   "tconstruct:recipes/tconstruct/general/common/firewood/nahuatl_stairs": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:06:06 -0600"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/linear_chassisfrom_conversion": {
+    "criteria": {
+      "has_the_recipe": "2022-05-06 21:04:36 -0600"
     },
     "done": true
   },
@@ -6173,6 +6235,12 @@
   "projecte:recipes/projecte/red_matter_alt": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:06:07 -0600"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/brass_hand": {
+    "criteria": {
+      "has_the_recipe": "2022-05-06 21:04:36 -0600"
     },
     "done": true
   },
@@ -6560,6 +6628,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/chests/silver_gold_chest": {
+    "criteria": {
+      "has_the_recipe": "2022-05-06 22:39:43 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:06:07 -0600"
@@ -6800,6 +6874,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/ingot_gauge": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:06:07 -0600"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/speedometerfrom_conversion": {
+    "criteria": {
+      "has_the_recipe": "2022-05-06 21:04:36 -0600"
     },
     "done": true
   },
@@ -7230,6 +7310,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/logistics/redstone_contact": {
+    "criteria": {
+      "has_the_recipe": "2022-05-06 21:04:36 -0600"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crimson_window_pane": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:06:06 -0600"
@@ -7398,6 +7484,12 @@
     },
     "done": true
   },
+  "classoptions:student": {
+    "criteria": {
+      "student": "2022-05-06 19:04:15 -0600"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/vanilla_iron_chest": {
     "criteria": {
       "has_iron_ingot": "2022-04-30 20:35:19 -0600"
@@ -7461,6 +7553,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:06:07 -0600"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/schematics/schematicannon": {
+    "criteria": {
+      "has_the_recipe": "2022-05-06 21:04:36 -0600"
     },
     "done": true
   },
@@ -7530,6 +7628,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/curiosities/wand_of_symmetry": {
+    "criteria": {
+      "has_the_recipe": "2022-05-06 22:39:43 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:06:06 -0600"
@@ -7539,6 +7643,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:06:07 -0600"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/silver_diamond_chest": {
+    "criteria": {
+      "has_item": "2022-05-06 20:12:42 -0600"
     },
     "done": true
   },
@@ -9059,6 +9169,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_crafter": {
+    "criteria": {
+      "has_the_recipe": "2022-05-06 21:04:36 -0600"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_scoria_stairs_from_polished_scoria_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:06:06 -0600"
@@ -9521,6 +9637,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/clockwork_bearing": {
+    "criteria": {
+      "has_the_recipe": "2022-05-06 21:04:36 -0600"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/controller_rail": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:06:06 -0600"
@@ -9818,6 +9940,12 @@
   "tconstruct:recipes/tconstruct/general/common/materials/rose_gold_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:06:07 -0600"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/adjustable_crate": {
+    "criteria": {
+      "has_the_recipe": "2022-05-06 21:04:36 -0600"
     },
     "done": true
   },
@@ -10788,6 +10916,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/rotation_speed_controller": {
+    "criteria": {
+      "has_the_recipe": "2022-05-06 21:06:50 -0600"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/paved_diorite_stairs_from_paved_diorite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:06:06 -0600"
@@ -10848,11 +10982,14 @@
       "cooked_mutton": "2022-04-30 13:14:55 -0600",
       "sweet_berries": "2022-05-03 18:54:33 -0600",
       "cooked_beef": "2022-04-30 13:27:32 -0600",
+      "spider_eye": "2022-05-06 20:53:39 -0600",
       "pumpkin_pie": "2022-04-30 23:01:24 -0600",
       "bread": "2022-04-30 14:21:13 -0600",
       "dried_kelp": "2022-05-02 16:18:31 -0600",
+      "melon_slice": "2022-05-07 01:53:48 -0600",
       "cooked_chicken": "2022-04-30 19:48:29 -0600",
-      "cooked_salmon": "2022-04-30 12:32:28 -0600"
+      "cooked_salmon": "2022-04-30 12:32:28 -0600",
+      "carrot": "2022-05-06 20:59:29 -0600"
     },
     "done": false
   },
@@ -11120,6 +11257,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/portable_storage_interface": {
+    "criteria": {
+      "has_the_recipe": "2022-05-06 21:04:36 -0600"
+    },
+    "done": true
+  },
   "projecte:recipes/projecte/alchemical_coal": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:06:06 -0600"
@@ -11330,6 +11473,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2022-05-06 20:12:42 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:06:06 -0600"
@@ -11381,6 +11530,12 @@
   "tmechworks:recipes/aluminum_nugget_from_aluminum_ingot": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:06:06 -0600"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/stockpile_switch": {
+    "criteria": {
+      "has_the_recipe": "2022-05-06 21:04:36 -0600"
     },
     "done": true
   },
