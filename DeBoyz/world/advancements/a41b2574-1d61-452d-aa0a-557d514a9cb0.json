@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2022-05-12 21:28:17 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brick_wall": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:16:05 -0600"
@@ -548,6 +554,12 @@
   "tconstruct:recipes/tconstruct/general/common/materials/rose_gold_block_from_ingots": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:16:05 -0600"
+    },
+    "done": true
+  },
+  "theabyss:flora_adv": {
+    "criteria": {
+      "flora_adv": "2022-05-12 22:43:57 -0600"
     },
     "done": true
   },
@@ -1136,6 +1148,12 @@
   "create:recipes/create.palettes/overgrown_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:16:05 -0600"
+    },
+    "done": true
+  },
+  "tconstruct:world/earth_island": {
+    "criteria": {
+      "found_island": "2022-05-12 22:09:19 -0600"
     },
     "done": true
   },
@@ -2380,6 +2398,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:16:04 -0600"
+    },
+    "done": true
+  },
+  "projecte:transmutation_table": {
+    "criteria": {
+      "trans_table": "2022-05-13 01:32:51 -0600"
     },
     "done": true
   },
@@ -4395,6 +4419,12 @@
     },
     "done": true
   },
+  "theabyss:loran_adv": {
+    "criteria": {
+      "loran_adv": "2022-05-12 22:43:57 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:16:04 -0600"
@@ -5277,6 +5307,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2022-05-12 22:40:43 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:16:05 -0600"
@@ -5406,6 +5442,12 @@
   "tconstruct:recipes/tconstruct/general/common/materials/cobalt_ingot_smelting": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:16:04 -0600"
+    },
+    "done": true
+  },
+  "theabyss:aberythe_ore_adv": {
+    "criteria": {
+      "aberythe_ore_adv": "2022-05-13 00:30:45 -0600"
     },
     "done": true
   },
@@ -6716,6 +6758,12 @@
   "create:recipes/create.palettes/fancy_dolomite_bricks_slab_from_fancy_dolomite_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:16:05 -0600"
+    },
+    "done": true
+  },
+  "tconstruct:world/clay_island": {
+    "criteria": {
+      "found_island": "2022-05-12 22:21:58 -0600"
     },
     "done": true
   },
@@ -8546,6 +8594,12 @@
     },
     "done": true
   },
+  "theabyss:ignisithe_ore_adv": {
+    "criteria": {
+      "ignisithe_ore_adv": "2022-05-13 00:23:33 -0600"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/yellow_seat_from_other_seat": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:16:05 -0600"
@@ -8645,6 +8699,12 @@
   "create:recipes/create.base/crafting/kinetics/white_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:16:05 -0600"
+    },
+    "done": true
+  },
+  "theabyss:ore_adv": {
+    "criteria": {
+      "ore_adv": "2022-05-13 00:23:33 -0600"
     },
     "done": true
   },
@@ -10387,13 +10447,19 @@
       "minecraft:forest": "2022-04-30 12:16:05 -0600",
       "minecraft:mountains": "2022-04-30 12:29:48 -0600",
       "minecraft:taiga": "2022-04-30 14:36:06 -0600",
+      "minecraft:desert_hills": "2022-05-12 23:15:27 -0600",
       "minecraft:taiga_hills": "2022-04-30 16:25:29 -0600",
+      "minecraft:desert": "2022-05-12 22:09:50 -0600",
+      "minecraft:warm_ocean": "2022-05-12 22:09:26 -0600",
+      "minecraft:deep_lukewarm_ocean": "2022-05-12 22:24:50 -0600",
       "minecraft:beach": "2022-04-30 15:14:42 -0600",
       "minecraft:river": "2022-04-30 12:26:15 -0600",
+      "minecraft:lukewarm_ocean": "2022-05-12 22:09:14 -0600",
       "minecraft:wooded_mountains": "2022-04-30 12:30:04 -0600",
       "minecraft:wooded_hills": "2022-04-30 15:41:22 -0600",
       "minecraft:stone_shore": "2022-04-30 13:26:36 -0600",
       "minecraft:swamp": "2022-04-30 12:26:19 -0600",
+      "minecraft:savanna": "2022-05-12 22:55:08 -0600",
       "minecraft:plains": "2022-04-30 15:11:01 -0600"
     },
     "done": false
@@ -10407,6 +10473,12 @@
   "create:recipes/create.palettes/weathered_limestone": {
     "criteria": {
       "has_the_recipe": "2022-04-30 12:16:04 -0600"
+    },
+    "done": true
+  },
+  "theabyss:glacerythe_ore_adv": {
+    "criteria": {
+      "glacerythe_ore_adv": "2022-05-13 00:31:13 -0600"
     },
     "done": true
   },
